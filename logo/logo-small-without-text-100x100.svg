@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>logo-small-without-text</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="logo-small-without-text" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="hack_logo" transform="translate(15.000000, 15.000000)" stroke="#000000" stroke-width="1.8">
+            <polygon id="Path" fill="#FFFFFF" fill-rule="evenodd" transform="translate(27.500000, 33.000000) scale(-1, 1) translate(-27.500000, -33.000000) " points="24 11.3372581 24 59 31 55 31 7"></polygon>
+            <polygon id="Path" fill="#FFFFFF" fill-rule="evenodd" transform="translate(42.500000, 37.000000) scale(-1, 1) translate(-42.500000, -37.000000) " points="39 15.3372581 39 63 46 59 46 11"></polygon>
+            <path d="M46,38 L31,46 L24,41 L46,30 L46,15 L53,11 L53,59 L46,63 L46,38 Z" id="Combined-Shape" fill="#B57EF2" fill-rule="evenodd"></path>
+            <path d="M38.9443622,34 L24,41 L17,36 L38.9443622,25 L38.9443622,11 L46,7 L46,54.6627419 L38.9443622,59 L38.9443622,34 Z" id="Combined-Shape" fill="#7E40A7" fill-rule="evenodd" transform="translate(31.500000, 33.000000) rotate(180.000000) translate(-31.500000, -33.000000) "></path>
+            <polyline id="Path-4" points="39 11 46 7 53 11"></polyline>
+            <polyline id="Path-4" transform="translate(24.000000, 61.000000) rotate(180.000000) translate(-24.000000, -61.000000) " points="17 63 21.0021522 60.7130559 24 59 31 63"></polyline>
+        </g>
+    </g>
+</svg>
