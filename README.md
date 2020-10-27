@@ -14,3 +14,7 @@ There are two types of purple colors of the hack brand:
 
 - ![#832df4](https://placehold.it/12/832df4/000000?text=+) `#832df4`
 - ![#ac82eb](https://placehold.it/12/ac82eb/000000?text=+) `#ac82eb`
+
+## Logo font
+
+The logo text is written in `Ubuntu mono`.
