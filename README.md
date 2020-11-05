@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/hackbg/hack-media-kit/blob/master/logo/hack-logo-754x436-purple-white-background.png">
+  <img src="https://github.com/hackbg/hack-media-kit/blob/master/logos/logo/hack-logo-754x436-purple-white-background.png">
 </p>
 
 # hack - Blockchain & DLT Solutions
