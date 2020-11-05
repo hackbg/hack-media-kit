@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <clipPath id="clip-hack-logomark-256x256-purple-transparent-background">
+      <rect width="256" height="256"/>
+    </clipPath>
+  </defs>
+  <g id="hack-logomark-256x256-purple-transparent-background" clip-path="url(#clip-hack-logomark-256x256-purple-transparent-background)">
+    <rect width="256" height="256" fill="rgba(255,255,255,0)"/>
+    <g id="Group_130" data-name="Group 130" transform="translate(79.801 41.918)">
+      <g id="logo-colored-1" transform="translate(0 0)">
+        <path id="Path" d="M0,55.338v124.6l19.031-11.492V44Z" transform="translate(0 -20.075)" fill="rgba(0,0,0,0)" stroke="#979797" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+        <path id="Path-2" data-name="Path" d="M0,124.6V0L19.031,11.492V135.938Z" transform="translate(38.063 159.863) rotate(180)" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+        <path id="Combined-Shape" d="M0,189.446V65L19.031,76.338v101.7l19.031,11.41v.153L19.031,200.938Z" transform="translate(0 -29.656)" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+        <path id="Combined-Shape-2" data-name="Combined-Shape" d="M109,135.938V11.338L128.031,0l19.031,11.338v124.6l-19.031-11.492Z" transform="translate(-49.731)" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+        <path id="Path-3" data-name="Path" d="M0,124.6V0L19.031,11.492V135.938Z" transform="translate(78.3 147.357) rotate(180)" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+        <path id="Combined-Shape-3" data-name="Combined-Shape" d="M113.258,21V145.6L94.226,156.938V100.511L54.073,123.119,35,112.271,94.226,77.9V32.492Z" transform="translate(-15.969 -9.581)" fill="#ac82eb" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+        <path id="Combined-Shape-4" data-name="Combined-Shape" d="M78.258,0V124.6L59.226,135.938V79.511L19.073,102.119,0,91.271,59.226,56.9V11.492Z" transform="translate(78.258 159.863) rotate(180)" fill="#832df4" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>
