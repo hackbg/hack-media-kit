@@ -27,3 +27,6 @@ There are two types of purple colors of the hack brand:
 ## Logo font
 
 The logo text is written in `Ubuntu mono`.
+
+- [Ubuntu mono](https://fonts.google.com/specimen/Ubuntu+Mono) (primary)
+- [Lexend Deca](https://fonts.google.com/specimen/Lexend+Deca) (secondary)
